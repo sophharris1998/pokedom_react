@@ -1,0 +1,9 @@
+@use "./variables" as *;
+
+* {
+    color: $color-primary;
+}
+body {
+    background-color: $color-background;
+    padding: 1rem;
+}
